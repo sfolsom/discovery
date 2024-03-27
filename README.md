@@ -17,7 +17,7 @@ In all of these areas there is opportunity for community input on and discussion
   * identify opportunities for enhanced discovery of library resources using linked data that can be implemented in the short to medium term
   * document connections between cataloging practices and discovery outcomes
   * document effective assessment approaches
-  * provide advice to LD4P3 partners for WP3: Discovery (previously provided advice to LD4P2 partners and cohort members for [WP4: Discovery](https://wiki.lyrasis.org/pages/viewpage.action?pageId=101783940))
+  * previously provided advice to LD4P3 partners for [WP3: Discovery](https://wiki.lyrasis.org/display/LD4P3/WP3%3A+Discovery) and LD4P2 partners and cohort members for [WP4: Discovery](https://wiki.lyrasis.org/pages/viewpage.action?pageId=101783940))
 
 ## Approach
 
@@ -25,13 +25,13 @@ In all of these areas there is opportunity for community input on and discussion
     * Jessie Keck: co-chair from 2019 - 3/2021
     * Originally chartered and chaired by Tom Cramer and Simeon Warner
   * Bi-weekly calls (see below):
-    * Announce on #general and #discovery
+    * Announce on [`#general`](https://ld4.slack.com/archives/C0XB7STEY) and [`#discovery`](https://ld4.slack.com/archives/CFWB3FX9T)
     * Public notes in Google Drive: [meeting minutes](https://drive.google.com/drive/folders/1Un3ALFr1zKROYr9b6h5VGX4Xikz6SqQC)
     * Topics seeded in advance, with a few key speakers drawn from community, then discussion
   * Dedicated, open Slack channel in LD4 – [`#discovery`](https://ld4.slack.com/archives/CFWB3FX9T)
   * Dedicated, open Google Group – [ld4-discovery](https://groups.google.com/forum/#!forum/ld4-discovery)
   * Share brief updates on all hands calls
-  * Consider face-to-face sessions at the LD4 conference each Spring
+  * Consider discovery-related sessions at the LD4 conference each Spring
 
 As an [LD4 Affinity Group](https://sites.google.com/stanford.edu/ld4-community-site/groups), we are open to all, regardless of institutional or organizational affiliation.
 
